@@ -2,8 +2,8 @@
 ![Sniper-pro preview](Sniper-pro.jpg)
 
 <p align="center">
-  <strong>Blackhat Recon Engine · 30+ Deep Scan Modules</strong><br>
-  <em>"Know your enemy, know yourself" – Mr.X</em>
+  <strong>Blackhat Recon Engine Â· 30+ Deep Scan Modules</strong><br>
+  <em>"Know your enemy, know yourself" â€“ Mr.X</em>
 </p>
 
 ## Introduction
@@ -24,21 +24,21 @@ $ python3 sniper-pro.py
 ```
 
 ## Features
-- **30+ Deep Scan Modules** – DNS, SSL, WAF, subdomains, CVE correlation, and more.
-- **Termux Optimized** – Works out of the box on Android (no root).
-- **RedHawk Style UI** – Neon colors, animated loading screen, and a cinematic exit greeting.
-- **Database Backend** – SQLite storage for scan history and workspace management.
-- **Auto Report Generation** – Export full scan results in HTML format.
-- **Self-Contained** – No Nuclei, no theHarvester, no paid APIs required for core operations.
-- **Fallback Mechanisms** – Gracefully handles missing tools and uses pure-Python alternatives.
-- **Threat Intelligence** – URLhaus, Spamhaus DBL lookups with zero API keys.
-- **Email Discovery** – Hunter.io API support + Google Dork fallback.
+- **30+ Deep Scan Modules** â€“ DNS, SSL, WAF, subdomains, CVE correlation, and more.
+- **Termux Optimized** â€“ Works out of the box on Android (no root).
+- **RedHawk Style UI** â€“ Neon colors, animated loading screen, and a cinematic exit greeting.
+- **Database Backend** â€“ SQLite storage for scan history and workspace management.
+- **Auto Report Generation** â€“ Export full scan results in HTML format.
+- **Self-Contained** â€“ No Nuclei, no theHarvester, no paid APIs required for core operations.
+- **Fallback Mechanisms** â€“ Gracefully handles missing tools and uses pure-Python alternatives.
+- **Threat Intelligence** â€“ URLhaus, Spamhaus DBL lookups with zero API keys.
+- **Email Discovery** â€“ Hunter.io API support + Google Dork fallback.
 
 ## Instructions
 - **First**: Install the tool using the commands above.
-- **Second**: Run python3 sniper-pro.py – you will see the loading screen.
+- **Second**: Run python3 sniper-pro.py â€“ you will see the loading screen.
 - **Third**: Set a target by pressing S and entering a domain or IP.
-- **Fourth**: Choose any individual module (02–30) or execute a full deep scan with 31.
+- **Fourth**: Choose any individual module (02â€“30) or execute a full deep scan with 31.
 - **Last**: At the end, you can save an HTML report to the reports/ folder.
 
 ## Observation
@@ -65,5 +65,7 @@ This tool is intended for **educational and ethical hacking purposes only**. Una
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/_Thank_you_for_visiting!-808080?style=for-the-badge&logo=github" alt="Thanks badge"/>
+  <img src="https://img.shields.io/badge/ðŸŒŸ_Thank_you_for_visiting!-808080?style=for-the-badge&logo=github" alt="Thanks badge"/>
 </p>
+
+---
