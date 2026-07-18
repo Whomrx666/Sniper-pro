@@ -14,7 +14,7 @@ Sniper Pro is a powerful, all-in-one reconnaissance and vulnerability assessment
 $ pkg update -y && pkg upgrade -y
 $ pkg install git python -y
 $ git clone https://github.com/Whomrx666/sniper-pro.git
-$ cd sniper-pro
+$ cd Sniper-pro
 $ python3 install.py
 
 ```
